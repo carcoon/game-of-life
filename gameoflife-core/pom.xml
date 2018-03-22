@@ -11,7 +11,7 @@
   <packaging>jar</packaging>
   <version>0.0.66-SNAPSHOT</version>
   <name>gameoflife-core</name>
-  <url>${HUDSON_URL}</url>
+  <!--<url>${HUDSON_URL}</url>-->
   <build>
     <plugins>
       <plugin>
